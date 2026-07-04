@@ -53,6 +53,4 @@ A modern and responsive calculator built using **HTML, CSS, and JavaScript**. Th
 
 ---
 
-##  Author
-**ATCHUT PATTI**
-GitHub: https://github.com/Atchut016
+
